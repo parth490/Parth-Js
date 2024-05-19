@@ -1,2 +1,2 @@
 # Parth-Js
-A code learning with Java Script
+A code learning with Java Sc
